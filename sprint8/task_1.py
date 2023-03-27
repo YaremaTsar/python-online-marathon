@@ -1,3 +1,17 @@
+'''Write the programm that calculate total price with discount by the products.
+
+    Use class Product(name, price, count) and class Cart. In class Cart you can add the products.
+
+Discount depends on count product:
+
+
+count	discount
+at least 5	5%
+at least 7	10%
+at least 10	20%
+at least 20	30%
+more than 20	50%
+Write unittest with class CartTest and test all methods with logic'''
 import unittest
 
 
